@@ -1,4 +1,4 @@
-# is-connected
+
   <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -20,24 +20,17 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">Is Connected</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Alert your connection status!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rodrigogaldino553/is-connected"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/rodrigogaldino553/is-connected/issues">Report Bug</a>
+    <a href="https://github.com/rodrigogaldino553/is-connected/issues">Request Feature</a>
   </p>
 </p>
 
