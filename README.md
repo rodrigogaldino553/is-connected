@@ -67,13 +67,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The script to check the internet connection, and alert you about it
+Script to check the internet connection, and alert you about it
 
+*It can run on all devices with python, you can put it in a IoT device, or run it at your terminal on your PC, or smartphone
 *It check your internet connection and alert you when it lost or stay unavailable
 *It alert you when it get back
 *It use sound effects to alert you, and inform you about your connection
+
 
 ### Built With
 
