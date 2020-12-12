@@ -105,13 +105,13 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Install requests and playsound
    * requests
-    ```sh
-       python -m pip install requests
-    ```
+      ```sh
+        python -m pip install requests
+      ```
    * playsound
-    ```sh
-      python -m pip install playsound
-    ```
+      ```sh
+        python -m pip install playsound
+      ```
 3. Just run it with python is-connected/main.py
 
 
