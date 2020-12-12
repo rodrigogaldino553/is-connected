@@ -153,8 +153,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 <h5>Rodrigo Galdino</h5>
-Intagram - [@rgr205](https://instagram.com/rgr205) 
-e-mail - galdinorodrigo553@protonmail.com
+
+Intagram - [@rgr205](https://instagram.com/rgr205) <br>
+e-mail - galdinorodrigo553@protonmail.com<br>
 LinkedIn - www.linkedin.com/in/rodrigogaldino553
 
 Project Link: [https://github.com/rodrigogaldino553/is-connected](https://github.com/rodrigogaldino553/is-connected)
