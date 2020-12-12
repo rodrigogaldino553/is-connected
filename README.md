@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/rodrigogaldino553/is-connected.git
    ```
 2. Install requests and playsound
-   * requests
+* requests
   ```sh
   python -m pip install requests
   ```
