@@ -70,9 +70,9 @@
 
 Script to check the internet connection, and alert you about it
 
-*It can run on all devices with python, you can put it in a IoT device, or run it at your terminal on your PC, or smartphone
-*It check your internet connection and alert you when it lost or stay unavailable
-*It alert you when it get back
+*It can run on all devices with python, you can put it in a IoT device, or run it at your terminal on your PC, or smartphone<br>
+*It check your internet connection and alert you when it lost or stay unavailable<br>
+*It alert you when it get back<br>
 *It use sound effects to alert you, and inform you about your connection
 
 
@@ -91,15 +91,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 *python 3.6+
 
-* requests
-  ```sh
-  pip install requests
-  ```
-* playsound
-  ```sh
-  pip install playsound
-  ```
-
 ### Installation
 
 1. Clone the repo
@@ -107,10 +98,14 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/rodrigogaldino553/is-connected.git
    ```
 2. Install requests and playsound
-   ```sh
-   pip install requests
-   pip install playsound
-   ```
+   * requests
+  ```sh
+  python -m pip install requests
+  ```
+* playsound
+  ```sh
+  python -m pip install playsound
+  ```
 3. Just run it with python is-connected/main.py
 
 
