@@ -18,6 +18,12 @@
 -->
 
 
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 <!-- PROJECT LOGO -->
 <br />
 
@@ -146,7 +152,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rodrigo Galdino - [@rgr205](https://instagram.com/rgr205) - galdinorodrigo553@protonmail.com
+<h5>Rodrigo Galdino</h5>
+Intagram - [@rgr205](https://instagram.com/rgr205) 
+e-mail - galdinorodrigo553@protonmail.com
+LinkedIn - www.linkedin.com/in/rodrigogaldino553
 
 Project Link: [https://github.com/rodrigogaldino553/is-connected](https://github.com/rodrigogaldino553/is-connected)
 
