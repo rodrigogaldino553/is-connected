@@ -177,7 +177,7 @@ Project Link: [https://github.com/rodrigogaldino553/is-connected](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/rodrigogaldino553/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/rodrigogaldino553/is-connected.svg?style=for-the-badge
 [stars-url]: https://github.com/rodrigogaldino553/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/rodrigogaldino553/issues
