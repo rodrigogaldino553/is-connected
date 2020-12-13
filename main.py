@@ -4,18 +4,20 @@ from requests import get
 from playsound import playsound
 
 
-# criar umas condicoes para os audios serem tocados
-# tocar cada audio umas 3... 5x depois q muda o estado...
-# reduzir o tempo do request
+
 connected = True
 counter = 0
 
 def play(sound):
     global counter
     if(counter < 3):
-        playsound(sound)
-        counter += 1
+        try:
+            playsound(sound)
 
+        except:
+            print('\033[2;31mError! cannot play alert sound!\033[m')
+
+        counter += 1
 
 
 def clear():
@@ -30,7 +32,7 @@ def connect(url):
         clear()
         if not connected:
             counter = 0
-            
+
         connected = True
 
     except:
@@ -46,7 +48,6 @@ def connect(url):
         print('\033[2;32mYOU ARE CONNECTED!\033[m')
         play('sounds/good_news.mp3')
         
-
 
 url = 'https://python.org'
 clear()
