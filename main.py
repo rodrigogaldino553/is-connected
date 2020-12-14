@@ -16,7 +16,6 @@ def play(sound):
 
         except:
             print('\033[2;31mError! cannot play alert sound!\033[m')
-            clear()
             print('EXECUTE THE PROGRAM "main.py" FROM "is-connected" FOLDER ON YOUR TERMINAL')
             sleep(3)
 
