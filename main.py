@@ -16,6 +16,10 @@ def play(sound):
 
         except:
             print('\033[2;31mError! cannot play alert sound!\033[m')
+            clear()
+            print('EXECUTE THE PROGRAM "main.py" FROM "is-connected" FOLDER ON YOUR TERMINAL')
+            sleep(3)
+
 
         counter += 1
 
@@ -42,7 +46,7 @@ def connect(url):
 
         connected = False
         print('\033[2;31mERROR! INTERNET UNAVAILABLE!\033[m')
-        play('sounds/wrong.mp3')
+        play('./sounds/wrong.mp3')
 
     else:
         print('\033[2;32mYOU ARE CONNECTED!\033[m')
@@ -58,3 +62,4 @@ while True:
     sleep(5)
     clear()
     print('requesting...')
+    
