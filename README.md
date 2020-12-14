@@ -112,7 +112,7 @@ To get a local copy up and running follow these simple example steps.
     ```sh
        python -m pip install playsound
     ```
-3. To use it correctly, you should open "/is-connected" folder on your terminal, if you use unix system, open it with (```cd YourPhath/is-connected/```)
+3. To use it correctly, you should open "/is-connected" folder on your terminal, if you use unix system, open it with (```cd YourPath/is-connected/```)
 
 4. Now, just run it with (```python main.py```)
 
